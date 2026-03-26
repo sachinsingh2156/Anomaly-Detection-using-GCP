@@ -136,9 +136,4 @@ ORDER BY forecast_timestamp DESC
 ---
 
 
-## Contributors
-
-- Sachin Singh [M24CSE033]
-- Vipul Kumar [M24CSE028]
-- Alok Dutta [M24CSE032]
 
